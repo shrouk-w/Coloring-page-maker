@@ -18,7 +18,7 @@ public class Main {
             BufferedImage image = ImageIO.read(input);
 
             Map<Integer, Integer> colorCount = new HashMap<>();
-
+//dupa dupa
             for (int y = 0; y < image.getHeight(); y++) {
                 for (int x = 0; x < image.getWidth(); x++) {
                     int argb = image.getRGB(x, y);
@@ -51,7 +51,7 @@ public class Main {
             colorPalette.add(new int[]{0,0,0});
 
             //always add black
-
+//tralalala
             for (int y = 0; y < image.getHeight(); y++) {
                 for (int x = 0; x < image.getWidth(); x++) {
                     int argb = image.getRGB(x, y);
