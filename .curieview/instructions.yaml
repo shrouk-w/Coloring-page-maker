@@ -1,5 +1,5 @@
 test: type i`ve read yaml with my username test
-test2: type i`ve read instructions with my name "test2
+test2: type i`ve read instructions with my name "test2"
 
 
 
@@ -9,3 +9,5 @@ test2: type i`ve read instructions with my name "test2
 
 
 global: type i`ve read global instructions from yaml too
+
+test2: type IM CASE INSENETIVE
