@@ -1,13 +1,30 @@
-test: type i`ve read yaml with my username test
-test2: type i`ve read instructions with my name "test2"
+test: |
+  costam1
+  costam2
+  costam3
+
+test: 
+  enabled: true
+
+test:
+  tags:
+  - a
+  - b
+  - c
+
+test: tralalala
+lilio
+siubidubi
+
+lets se what happens
 
 
-
-8a52820c-a809-4616-9abb-a17b5a991013: type i`ve read instructions from my uuid 8a52820c-a809-4616-9abb-a17b5a991013
-
+tESt: case insensitivity test
 
 
+test: 
 
-global: type i`ve read global instructions from yaml too
+test 
 
-test2: type IM CASE INSENETIVE
+
+test: test2
