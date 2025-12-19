@@ -1,24 +1,14 @@
-test: |
-  costam1
-  costam2
-  costam3
-
-test: 
-  enabled: true
-
-test:
-  tags:
-  - a
-  - b
-  - c
-
-test: tralalala
-
-
-tESt: case insensitivity test
-
-
-test: 
-
-
-test: test2
+test test: |
+  at
+  the
+  end
+  of
+  file
+  type
+  I 
+  HAVE
+  READ
+  INSTRUCTIONS
+  FROM 
+  YAML
+  
